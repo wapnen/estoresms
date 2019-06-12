@@ -1,0 +1,23 @@
+{
+  "name": "wapnen/estoresms",
+  "description": "A php wrapper library for sms and voice calls using estoresms",
+  "keywords": ["estoresms", "text", "sms", "php", "call", "phone", "notification"],
+  "type": "package",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+    "phpunit/phpunit": "^7.5"
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "Wapnen Gowok",
+        "email": "wapneng@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "EstoreSMS\\" : "EstoreSMS/"
+        }
+    },
+    "version": "1.0.0",
+    "minimum-stability": "stable"
+
+}
