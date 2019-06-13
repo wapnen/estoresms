@@ -33,7 +33,7 @@ echo $response;
 
 ```
 
-##Parameters
+## Parameters
 
 | Parameter  | Description |
 | ------------- | ------------- |
@@ -44,7 +44,7 @@ echo $response;
 | sender_id | A string to display as the message sender |
 
 
-##Optional parameters
+## Optional parameters
 
 | Parameter  | Description |
 | ------------- | ------------- |
