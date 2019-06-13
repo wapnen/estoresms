@@ -34,6 +34,7 @@ echo $response;
 ```
 
 ##Parameters
+
 | Parameter  | Description |
 | ------------- | ------------- |
 | username  | Your estoresms username  |
@@ -44,6 +45,7 @@ echo $response;
 
 
 ##Optional parameters
+
 | Parameter  | Description |
 | ------------- | ------------- |
 | dnd  | Default to false. Set to true if the number is on dnd mode  |
@@ -80,7 +82,9 @@ echo $response;
 
 
 ### Response
+
 Here is a list of possible return values
+
 | Message  | Description |
 | ------------- | ------------- |
 | OK | Successful |
